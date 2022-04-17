@@ -40,7 +40,7 @@ resetButton.addEventListener("click", () => {
 });
 
 document.getElementById("myButton").onclick = function () {
-    location.href = "http://localhost:5501/index.html";
+    location.href = "https://samdewaal1.github.io/prg8-week9/";
 };
 
 
