@@ -95,7 +95,7 @@ function draw() {
         fill(0);
         textSize(32);
         text(object.label + " " + object.id, object.x + 10, object.y + 24);
-        window.location.href = "http://localhost:5500/species.html";
+        window.location.href = "https://samdewaal1.github.io/prg8-week9/species.html";
       }
       object.timer -= 2;
       if (object.timer < 0) {
